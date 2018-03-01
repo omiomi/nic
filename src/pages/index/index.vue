@@ -1,6 +1,10 @@
 <template>
   <div class="index-wrap">
     <Carousel></Carousel>
+    <Indus></Indus>
+    <Projs></Projs>
+    <Anli></Anli>
+    <Dingz></Dingz>
   </div>
 </template>
 

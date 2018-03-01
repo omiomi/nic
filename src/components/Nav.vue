@@ -60,7 +60,7 @@ export default {
           padding: 0 20px;
           position: relative;
           cursor: pointer;
-          font-size: 14px;
+          font-size: 16px;
           &.on,
           &:hover{
             color: #ff9744;
