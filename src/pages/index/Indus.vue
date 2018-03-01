@@ -1,7 +1,7 @@
 <template>
   <div class="indus-wrap">
     <h2>服务覆盖14个行业</h2>
-    <Row type="flex" justify="end" class="code-row-bg">
+    <Row type="flex" justify="end" class="indus-row code-row-bg">
       <Col span="3">
         <div class="icon-wrap">
           <img src="../../assets/svg/icon1.svg" alt="生鲜行业">
@@ -45,7 +45,7 @@
       </div>
       </Col>
     </Row>
-    <Row type="flex" justify="end" class="code-row-bg">
+    <Row type="flex" justify="end" class="indus-row code-row-bg">
       <Col span="3">
       <div class="icon-wrap">
         <img src="../../assets/svg/icon8.svg" alt="环保">
@@ -107,16 +107,23 @@ export default {
     background: #fff;
     box-sizing: border-box;
     padding-top: 56px;
+    .indus-row{
+      width: 1280px;
+      height: 140px;
+      justify-content: space-around;
+      margin: 100px auto 0;
+    }
     .icon-wrap{
       position: relative;
+      span{
+        position: relative;
+        top: 80px;
+      }
       img{
         position: absolute;
-        top:0;
         left:50%;
         top:50%;
-        transform: translateX(-50%);
-        transform: translateY(-50%);
-        transform: scale(.5);
+        transform: translateX(-50%) translateY(-50%) scale(.5);
       }
     }
     h2{
