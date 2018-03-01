@@ -1,33 +1,23 @@
 <template>
-  <Menu mode="horizontal" :theme="theme1" active-name="1">
-    <MenuItem name="1">
-      <Icon type="ios-paper"></Icon>
-      内容管理
-    </MenuItem>
-    <MenuItem name="2">
-      <Icon type="ios-people"></Icon>
-      用户管理
-    </MenuItem>
-    <Submenu name="3">
-      <template slot="title">
-        <Icon type="stats-bars"></Icon>
-        统计分析
-      </template>
-      <MenuGroup title="使用">
-        <MenuItem name="3-1">新增和启动</MenuItem>
-        <MenuItem name="3-2">活跃分析</MenuItem>
-        <MenuItem name="3-3">时段分析</MenuItem>
-      </MenuGroup>
-      <MenuGroup title="留存">
-        <MenuItem name="3-4">用户留存</MenuItem>
-        <MenuItem name="3-5">流失用户</MenuItem>
-      </MenuGroup>
-    </Submenu>
-    <MenuItem name="4">
-      <Icon type="settings"></Icon>
-      综合设置
-    </MenuItem>
-  </Menu>
+  <div class="header-wrap">
+    <div class="nic-header">
+      <div class="logo">
+        <img src="../assets/img/logo.png" alt="">
+      </div>
+      <ul>
+        <li class="on">首页</li>
+        <li>可视化图表
+          <div class="sub-nav">
+            <span class="item"></span>
+          </div>
+        </li>
+        <li>服务行业</li>
+        <li>解决方案</li>
+        <li>商务合作</li>
+        <li>关于我们</li>
+      </ul>
+    </div>
+  </div>
 </template>
 <script>
 export default {
@@ -38,3 +28,45 @@ export default {
   }
 }
 </script>
+<style lang="scss">
+  .header-wrap{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top:0;
+    z-index: 1;
+    background: #fff;
+    .nic-header{
+      width: 1280px;
+      position: absolute;
+      left:50%;
+      transform: translateX(-50%);
+      .logo{
+        position: absolute;
+        left:0;
+        top:6px;
+        height: 48px;
+        img{
+          height: 48px;
+        }
+      }
+      ul{
+        position: absolute;
+        left:410px;
+        list-style: none;
+        line-height: 60px;
+        li{
+          display: inline-block;
+          padding: 0 20px;
+          position: relative;
+          cursor: pointer;
+          font-size: 14px;
+          &.on,
+          &:hover{
+            color: #ff9744;
+          }
+        }
+      }
+    }
+  }
+</style>
