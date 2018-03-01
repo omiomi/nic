@@ -71,6 +71,7 @@ export default {
     }
     h2{
       font-size: 26px;
+      font-weight: 200;
     }
   }
 </style>
