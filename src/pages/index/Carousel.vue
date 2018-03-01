@@ -1,16 +1,24 @@
 <template>
   <Carousel autoplay v-model="value2" loop>
     <CarouselItem>
-      <div class="pic-wrap">1</div>
+      <div class="pic-wrap">
+        <img src="../../assets/pic/pic1.jpg" alt="nic">
+      </div>
     </CarouselItem>
     <CarouselItem>
-      <div class="pic-wrap">2</div>
+      <div class="pic-wrap">
+        <img src="../../assets/pic/pic2.jpg" alt="nic">
+      </div>
     </CarouselItem>
     <CarouselItem>
-      <div class="pic-wrap">3</div>
+      <div class="pic-wrap">
+        <img src="../../assets/pic/pic1.jpg" alt="nic">
+      </div>
     </CarouselItem>
     <CarouselItem>
-      <div class="pic-wrap">4</div>
+      <div class="pic-wrap">
+        <img src="../../assets/pic/pic2.jpg" alt="nic">
+      </div>
     </CarouselItem>
   </Carousel>
 </template>
@@ -23,10 +31,28 @@ export default {
   }
 }
 </script>
-<style scoped>
+<style lang="scss">
   .pic-wrap{
     width: 100%;
-    height: 600px;
-    background: #2c3e50;
+    height: 726px;
+    background: #0e0e0f;
+    margin-top:60px;
+    position: relative;
+    overflow: hidden;
+    img{
+      position: absolute;
+      top:0;
+      left:50%;
+      transform: translateX(-50%);
+    }
+  }
+  .ivu-carousel-dots-inside {
+    display: block;
+    position: absolute;
+    bottom: 40px;
+  }
+  .ivu-carousel-dots li button{
+    width: 26px;
+    height: 4px;
   }
 </style>
