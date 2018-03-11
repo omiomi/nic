@@ -1,18 +1,6 @@
 <template>
-  <Carousel autoplay v-model="value2" loop>
-    <CarouselItem>
-      <div class="pic-wrap">1</div>
-    </CarouselItem>
-    <CarouselItem>
-      <div class="pic-wrap">2</div>
-    </CarouselItem>
-    <CarouselItem>
-      <div class="pic-wrap">3</div>
-    </CarouselItem>
-    <CarouselItem>
-      <div class="pic-wrap">4</div>
-    </CarouselItem>
-  </Carousel>
+  <div class="anli-wrap">
+  </div>
 </template>
 <script>
 export default {
@@ -24,9 +12,10 @@ export default {
 }
 </script>
 <style scoped>
-  .pic-wrap{
+  .anli-wrap{
     width: 100%;
-    height: 600px;
-    background: #2c3e50;
+    height: 450px;
+    background: #fff;
+    box-sizing: border-box;
   }
 </style>

@@ -3,6 +3,7 @@
     <Carousel></Carousel>
     <Indus></Indus>
     <Projs></Projs>
+    <Anli></Anli>
     <Dingz></Dingz>
   </div>
 </template>
@@ -24,3 +25,4 @@ export default {
   }
 }
 </script>
+

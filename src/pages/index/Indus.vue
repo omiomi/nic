@@ -118,12 +118,13 @@ export default {
       span{
         position: relative;
         top: 80px;
+        font-size: 18px;
       }
       img{
         position: absolute;
         left:50%;
         top:50%;
-        transform: translateX(-50%) translateY(-50%) scale(.5);
+        transform: translateX(-50%) translateY(-50%) scale(.4);
       }
     }
     h2{
