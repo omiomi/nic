@@ -2,6 +2,17 @@
   <div class="projs-wrap">
     <h2>满足个性化需求的解决方案</h2>
     <div class="projs">
+      <div class="proj-item" v-for = "item  in list">
+        <img :src="item.bg" alt="nic" class="proj-bg">
+        <div class="proj-inner">
+          <img :src="item.icon" alt="nic" class="icon">
+          <img :src="item.iconHover" alt="nic" class="hover">
+          <p class="title">{{item.name}}</p>
+          <p class="info" v-html="item.info"></p>
+          <a href="#" class="more">查看详情</a>
+        </div>
+      </div>
+      <!--
       <div class="proj-item">
         <img src="../../assets/index/proj-bj1.jpg" alt="nic" class="proj-bg">
         <div class="proj-inner">
@@ -52,12 +63,58 @@
           <div class="more">查看详情</div>
         </div>
       </div>
+      -->
     </div>
   </div>
 </template>
 <script>
 export default {
-
+  data () {
+    return {
+      list: [
+        {
+          name:"政府机构",
+          info:"政务系统，服务系统<br>采集系统，大屏展示系统",
+          url:"#",
+          bg:"static/pic/index/proj-bj1.jpg",
+          icon:"static/pic/index/proj-icon1.svg",
+          iconHover:"static/pic/index/proj-icon1-h.svg",
+        },
+        {
+          name:"事业单位",
+          info:"学籍系统，成绩分析系统<br>采集系统，大屏展示系统",
+          url:"#",
+          bg:"static/pic/index/proj-bj2_1.jpg",
+          icon:"static/pic/index/proj-icon2.svg",
+          iconHover:"static/pic/index/proj-icon2-h.svg",
+        },
+        {
+          name:"企业项目",
+          info:"企业管理系统，服务系统<br>采集系统，大屏展示系统",
+          url:"#",
+          bg:"static/pic/index/proj-bj3.jpg",
+          icon:"static/pic/index/proj-icon3.svg",
+          iconHover:"static/pic/index/proj-icon3-h.svg",
+        },
+        {
+          name:"学术科研",
+          info:"期刊系统，实验数据展示系统<br>采集系统，大屏展示系统",
+          url:"#",
+          bg:"static/pic/index/proj-bj4.jpg",
+          icon:"static/pic/index/proj-icon4.svg",
+          iconHover:"static/pic/index/proj-icon4-h.svg",
+        },
+        {
+          name:"社团协会",
+          info:"活动管理系统，服务系统<br>采集系统，大屏展示系统",
+          url:"#",
+          bg:"static/pic/index/proj-bj5.jpg",
+          icon:"static/pic/index/proj-icon5.svg",
+          iconHover:"static/pic/index/proj-icon5-h.svg",
+        }
+      ]
+    }
+  }
 }
 </script>
 <style lang="scss">
@@ -66,14 +123,14 @@ export default {
     height: 560px;
     background: #f6f6f6;
     box-sizing: border-box;
-    padding-top: 56px;
+    padding-top: 50px;
     .projs{
       width: 1280px;
-      margin: 50px auto;
+      margin: 40px auto;
       display: flex;
       .proj-item{
         width: 20%;
-        height: 378px;
+        height: 370px;
         overflow: hidden;
         position: relative;
         display: flex;
@@ -109,8 +166,9 @@ export default {
             transform: translateX(-50%);
             height: 70px;
             transition: all 0.2s cubic-bezier(0.3, 0.6, 0.7, 1.4);
+            display: none;
             &.hover{
-              display: none;
+              display: block;
             }
           }
           .title{

@@ -38,7 +38,11 @@ export default {
     background: #0e0e0f;
     margin-top:60px;
     position: relative;
-    overflow: hidden;
+    .ivu-carousel-dots{
+      li{
+        margin: 0 5px;
+      }
+    }
     img{
       position: absolute;
       top:0;

@@ -2,7 +2,7 @@
   <div class="header-wrap">
     <div class="nic-header">
       <div class="logo">
-        <img src="../assets/img/logo.png" alt="">
+        <img src="../assets/img/logo.svg" alt="新智图表">
       </div>
       <ul>
         <li class="on">首页</li>
@@ -34,12 +34,14 @@ export default {
     height: 60px;
     position: fixed;
     top:0;
-    z-index: 1;
-    background: #fff;
+    z-index: 111;
+    background: rgba(0,0,0,.8);
+    box-shadow: 1px 1px 1px rgba(0,0,0,.3);
     .nic-header{
       width: 1280px;
       position: absolute;
       left:50%;
+      z-index: 100;
       transform: translateX(-50%);
       .logo{
         position: absolute;
@@ -48,6 +50,7 @@ export default {
         height: 48px;
         img{
           height: 48px;
+          cursor: pointer;
         }
       }
       ul{
@@ -61,6 +64,7 @@ export default {
           position: relative;
           cursor: pointer;
           font-size: 16px;
+          color: #fff;
           &.on,
           &:hover{
             color: #ff9744;
