@@ -36,7 +36,6 @@ export default {
     width: 100%;
     height: 726px;
     background: #0e0e0f;
-    margin-top:60px;
     position: relative;
     .ivu-carousel-dots{
       li{

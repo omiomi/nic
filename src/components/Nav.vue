@@ -35,8 +35,9 @@ export default {
     position: fixed;
     top:0;
     z-index: 111;
-    background: rgba(0,0,0,.8);
-    box-shadow: 1px 1px 1px rgba(0,0,0,.3);
+    background: rgba(0,0,0,.3);
+    box-shadow: 0 -1px 0 0 rgba(255,255,255,.1) inset;
+    transition: all .1s ease-in-out 0s;
     .nic-header{
       width: 1280px;
       position: absolute;
