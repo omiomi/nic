@@ -21,7 +21,7 @@ export default {
     box-sizing: border-box;
     padding-top: 106px;
     h2{
-      font-size: 36px;
+      font-size: 32px;
       color: #fff;
       font-weight: 200;
     }

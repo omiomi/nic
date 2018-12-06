@@ -72,12 +72,13 @@ export default {
   .footer-wrap {
     width: 100%;
     height: 240px;
-    background: #000;
+    padding: 20px;
+    background: #D1D3D4;
     box-sizing: border-box;
     position: relative;
     .footer{
       width: 1280px;
-      margin: 30px auto;
+      margin: 20px auto;
       display: flex;
       .f-item{
         width: 16%;
@@ -86,10 +87,12 @@ export default {
           width: 100px;
         }
         .f-slogon{
-          font-size: 18px;
+          font-size: 12px;
+          position: relative;
+          left: -2px;
         }
         h2{
-          font-size: 22px;
+          font-size: 16px;
           font-weight: 400;
           padding-bottom: 10px;
           position: relative;
@@ -103,6 +106,7 @@ export default {
           left: 29px;
           li{
             text-align: left;
+            list-style: none;
           }
         }
         .ewm{
@@ -112,12 +116,13 @@ export default {
         }
       }
       .copyright{
-        width: 800px;
+        width: 890px;
         padding-top: 10px;
-        border-top:1px solid rgba(100,100,100,.3);
+        border-top: 1px solid rgba(100, 100, 100, 0.3);
         position: absolute;
-        bottom: 30px;
-        left:50%;
+        bottom: 15px;
+        left: 50%;
+        margin-left: 38px;
         transform: translateX(-50%);
       }
     }
