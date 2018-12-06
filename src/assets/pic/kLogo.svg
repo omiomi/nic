@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113.205 113.205">
+  <defs>
+    <style>
+      .cls-1, .cls-3, .cls-6, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #e6b06e;
+      }
+
+      .cls-3 {
+        stroke: #d4ddec;
+        stroke-width: 0.511px;
+      }
+
+      .cls-3, .cls-6, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #ecc28f;
+      }
+
+      .cls-5 {
+        fill: #e29d4d;
+      }
+
+      .cls-6, .cls-8 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        stroke-width: 2.09px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        stroke-width: 1.803px;
+      }
+
+      .cls-9 {
+        stroke: #e29d4d;
+        stroke-width: 1.605px;
+      }
+    </style>
+  </defs>
+  <g id="组_152" data-name="组 152" transform="translate(-424.798 -232.198)">
+    <path id="路径_108" data-name="路径 108" class="cls-1" d="M453,240.7Z"/>
+    <path id="路径_109" data-name="路径 109" class="cls-2" d="M536.7,281.7a55.858,55.858,0,0,0-62.6-48.2,57.6,57.6,0,0,0-20.9,7.1v.3Z"/>
+    <path id="路径_110" data-name="路径 110" class="cls-3" d="M453.3,240.6l-.3.2.2.1Z"/>
+    <path id="路径_111" data-name="路径 111" class="cls-2" d="M439.9,326.2a55.039,55.039,0,0,0,12,10l1.2-93.5Z"/>
+    <path id="路径_112" data-name="路径 112" class="cls-4" d="M453.3,240.9l-.3,1.8-1.1,93.5a55.786,55.786,0,0,0,85.3-47.4,58.076,58.076,0,0,0-.5-7.2Z"/>
+    <path id="路径_113" data-name="路径 113" class="cls-5" d="M453,240.8a55.81,55.81,0,0,0-19.7,76.5,57.769,57.769,0,0,0,6.6,9L453,242.8Z"/>
+    <path id="路径_114" data-name="路径 114" class="cls-3" d="M453.3,240.9l-.2-.1h0v1.9Z"/>
+    <rect id="矩形_6" data-name="矩形 6" class="cls-6" width="43.5" height="43.5" transform="translate(450.593 288.881) rotate(-45)"/>
+    <rect id="矩形_7" data-name="矩形 7" class="cls-7" width="20.6" height="20.6" transform="translate(466.856 288.881) rotate(-45)"/>
+    <line id="直线_1" data-name="直线 1" class="cls-8" y2="9.5" transform="translate(481.4 319.6)"/>
+    <g id="组_147" data-name="组 147">
+      <path id="路径_115" data-name="路径 115" class="cls-5" d="M481.4,339.4a5.8,5.8,0,1,1,5.8-5.8A5.8,5.8,0,0,1,481.4,339.4Z"/>
+      <path id="路径_116" data-name="路径 116" class="cls-7" d="M481.4,328.4a5.2,5.2,0,1,1-5.2,5.2,5.164,5.164,0,0,1,5.2-5.2m0-1.3a6.4,6.4,0,1,0,6.4,6.4,6.445,6.445,0,0,0-6.4-6.4Z"/>
+    </g>
+    <path id="路径_117" data-name="路径 117" class="cls-7" d="M481.4,329.3a4.3,4.3,0,1,1-4.3,4.3,4.268,4.268,0,0,1,4.3-4.3h0m0-1.8a6.1,6.1,0,1,0,6.1,6.1A6.124,6.124,0,0,0,481.4,327.5Z"/>
+    <g id="组_148" data-name="组 148">
+      <circle id="椭圆_1" data-name="椭圆 1" class="cls-5" cx="5.8" cy="5.8" r="5.8" transform="translate(475.6 283.2)"/>
+      <path id="路径_118" data-name="路径 118" class="cls-7" d="M481.4,283.8a5.2,5.2,0,1,1-5.2,5.2,5.228,5.228,0,0,1,5.2-5.2m0-1.2a6.4,6.4,0,1,0,6.4,6.4,6.445,6.445,0,0,0-6.4-6.4Z"/>
+    </g>
+    <path id="路径_119" data-name="路径 119" class="cls-7" d="M481.4,284.7a4.3,4.3,0,1,1-4.3,4.3,4.268,4.268,0,0,1,4.3-4.3h0m0-1.8a6.1,6.1,0,1,0,6.1,6.1A6.259,6.259,0,0,0,481.4,282.9Z"/>
+    <line id="直线_2" data-name="直线 2" class="cls-8" y1="9.6" transform="translate(481.4 248.6)"/>
+    <g id="组_149" data-name="组 149">
+      <path id="路径_120" data-name="路径 120" class="cls-5" d="M481.4,250a5.8,5.8,0,1,1,5.8-5.8A5.8,5.8,0,0,1,481.4,250Z"/>
+      <path id="路径_121" data-name="路径 121" class="cls-7" d="M481.4,239.1a5.2,5.2,0,1,1-5.2,5.2,5.164,5.164,0,0,1,5.2-5.2m0-1.3a6.4,6.4,0,1,0,6.4,6.4,6.445,6.445,0,0,0-6.4-6.4Z"/>
+    </g>
+    <path id="路径_122" data-name="路径 122" class="cls-7" d="M481.4,240a4.3,4.3,0,1,1-4.3,4.3,4.268,4.268,0,0,1,4.3-4.3h0m0-1.8a6.1,6.1,0,1,0,6.1,6.1A6.124,6.124,0,0,0,481.4,238.2Z"/>
+    <line id="直线_3" data-name="直线 3" class="cls-8" x2="9.5" transform="translate(512.1 288.9)"/>
+    <g id="组_150" data-name="组 150">
+      <path id="路径_123" data-name="路径 123" class="cls-5" d="M526.1,294.7a5.8,5.8,0,1,1,5.8-5.8A5.8,5.8,0,0,1,526.1,294.7Z"/>
+      <path id="路径_124" data-name="路径 124" class="cls-7" d="M526.1,283.7a5.2,5.2,0,1,1-5.2,5.2,5.164,5.164,0,0,1,5.2-5.2m0-1.2a6.4,6.4,0,1,0,6.4,6.4,6.445,6.445,0,0,0-6.4-6.4Z"/>
+    </g>
+    <path id="路径_125" data-name="路径 125" class="cls-7" d="M526.1,284.6a4.3,4.3,0,1,1-4.3,4.3,4.268,4.268,0,0,1,4.3-4.3h0m0-1.8a6.1,6.1,0,1,0,6.1,6.1h0A6.19,6.19,0,0,0,526.1,282.8Z"/>
+    <line id="直线_4" data-name="直线 4" class="cls-8" x1="9.6" transform="translate(441.1 288.9)"/>
+    <g id="组_151" data-name="组 151">
+      <path id="路径_126" data-name="路径 126" class="cls-5" d="M436.7,294.7a5.8,5.8,0,1,1,5.8-5.8A5.8,5.8,0,0,1,436.7,294.7Z"/>
+      <path id="路径_127" data-name="路径 127" class="cls-7" d="M436.7,283.7a5.2,5.2,0,1,1-5.2,5.2,5.228,5.228,0,0,1,5.2-5.2m0-1.2a6.4,6.4,0,1,0,6.4,6.4,6.38,6.38,0,0,0-6.4-6.4Z"/>
+    </g>
+    <path id="路径_128" data-name="路径 128" class="cls-7" d="M436.7,284.6a4.3,4.3,0,1,1-4.3,4.3,4.332,4.332,0,0,1,4.3-4.3h0m0-1.8a6.1,6.1,0,1,0,6.1,6.1h0A6.061,6.061,0,0,0,436.7,282.8Z"/>
+    <circle id="椭圆_2" data-name="椭圆 2" class="cls-7" cx="1" cy="1" r="1" transform="translate(503.2 238.7)"/>
+    <circle id="椭圆_3" data-name="椭圆 3" class="cls-7" cx="1" cy="1" r="1" transform="translate(503.6 243.4)"/>
+    <circle id="椭圆_4" data-name="椭圆 4" class="cls-7" cx="1" cy="1" r="1" transform="translate(503.1 248.1)"/>
+    <circle id="椭圆_5" data-name="椭圆 5" class="cls-7" cx="1" cy="1" r="1" transform="translate(501.7 252.5)"/>
+    <circle id="椭圆_6" data-name="椭圆 6" class="cls-7" cx="1" cy="1" r="1" transform="translate(499.4 256.6)"/>
+    <circle id="椭圆_7" data-name="椭圆 7" class="cls-7" cx="1" cy="1" r="1" transform="translate(496.8 260.3)"/>
+    <circle id="椭圆_8" data-name="椭圆 8" class="cls-7" cx="1" cy="1" r="1" transform="translate(492.8 263.2)"/>
+    <circle id="椭圆_9" data-name="椭圆 9" class="cls-7" cx="1" cy="1" r="1" transform="translate(488.6 265.3)"/>
+    <circle id="椭圆_10" data-name="椭圆 10" class="cls-7" cx="1" cy="1" r="1" transform="translate(484.1 266.6)"/>
+    <circle id="椭圆_11" data-name="椭圆 11" class="cls-7" cx="1" cy="1" r="1" transform="translate(479.4 267)"/>
+    <circle id="椭圆_12" data-name="椭圆 12" class="cls-7" cx="1" cy="1" r="1" transform="translate(474.8 266.5)"/>
+    <circle id="椭圆_13" data-name="椭圆 13" class="cls-7" cx="1" cy="1" r="1" transform="translate(470.3 265.1)"/>
+    <circle id="椭圆_14" data-name="椭圆 14" class="cls-7" cx="1" cy="1" r="1" transform="translate(466.2 262.8)"/>
+    <circle id="椭圆_15" data-name="椭圆 15" class="cls-7" cx="1" cy="1" r="1" transform="translate(462.6 259.8)"/>
+    <circle id="椭圆_16" data-name="椭圆 16" class="cls-7" cx="1" cy="1" r="1" transform="translate(459.7 256.1)"/>
+    <circle id="椭圆_17" data-name="椭圆 17" class="cls-7" cx="1" cy="1" r="1" transform="translate(457.6 251.9)"/>
+    <circle id="椭圆_18" data-name="椭圆 18" class="cls-7" cx="1" cy="1" r="1" transform="translate(456.3 247.4)"/>
+    <circle id="椭圆_19" data-name="椭圆 19" class="cls-7" cx="1" cy="1" r="1" transform="translate(455.9 242.8)"/>
+    <circle id="椭圆_20" data-name="椭圆 20" class="cls-7" cx="1" cy="1" r="1" transform="translate(456.4 238.1)"/>
+    <circle id="椭圆_21" data-name="椭圆 21" class="cls-7" cx="1" cy="1" r="1" transform="translate(503 337.3)"/>
+    <circle id="椭圆_22" data-name="椭圆 22" class="cls-7" cx="1" cy="1" r="1" transform="translate(503.5 332.6)"/>
+    <circle id="椭圆_23" data-name="椭圆 23" class="cls-7" cx="1" cy="1" r="1" transform="translate(503 327.9)"/>
+    <circle id="椭圆_24" data-name="椭圆 24" class="cls-7" cx="1" cy="1" r="1" transform="translate(501.7 323.4)"/>
+    <circle id="椭圆_25" data-name="椭圆 25" class="cls-7" cx="1" cy="1" r="1" transform="translate(499.5 319.3)"/>
+    <circle id="椭圆_26" data-name="椭圆 26" class="cls-7" cx="1" cy="1" r="1" transform="translate(496.8 315.5)"/>
+    <circle id="椭圆_27" data-name="椭圆 27" class="cls-7" cx="1" cy="1" r="1" transform="translate(492.9 312.7)"/>
+    <circle id="椭圆_28" data-name="椭圆 28" class="cls-7" cx="1" cy="1" r="1" transform="translate(488.8 310.5)"/>
+    <circle id="椭圆_29" data-name="椭圆 29" class="cls-7" cx="1" cy="1" r="1" transform="translate(484.3 309.1)"/>
+    <circle id="椭圆_30" data-name="椭圆 30" class="cls-7" cx="1" cy="1" r="1" transform="translate(479.6 308.6)"/>
+    <circle id="椭圆_31" data-name="椭圆 31" class="cls-7" cx="1" cy="1" r="1" transform="translate(475 309.1)"/>
+    <circle id="椭圆_32" data-name="椭圆 32" class="cls-7" cx="1" cy="1" r="1" transform="translate(470.5 310.5)"/>
+    <circle id="椭圆_33" data-name="椭圆 33" class="cls-7" cx="1" cy="1" r="1" transform="translate(466.3 312.7)"/>
+    <circle id="椭圆_34" data-name="椭圆 34" class="cls-7" cx="1" cy="1" r="1" transform="translate(462.7 315.7)"/>
+    <circle id="椭圆_35" data-name="椭圆 35" class="cls-7" cx="1" cy="1" r="1" transform="translate(459.8 319.3)"/>
+    <circle id="椭圆_36" data-name="椭圆 36" class="cls-7" cx="1" cy="1" r="1" transform="translate(457.6 323.4)"/>
+    <circle id="椭圆_37" data-name="椭圆 37" class="cls-7" cx="1" cy="1" r="1" transform="translate(456.2 327.9)"/>
+    <circle id="椭圆_38" data-name="椭圆 38" class="cls-7" cx="1" cy="1" r="1" transform="translate(455.8 332.6)"/>
+    <circle id="椭圆_39" data-name="椭圆 39" class="cls-7" cx="1" cy="1" r="1" transform="translate(456.3 337.3)"/>
+    <circle id="椭圆_40" data-name="椭圆 40" class="cls-7" cx="1" cy="1" r="1" transform="translate(529.2 311.2)"/>
+    <circle id="椭圆_41" data-name="椭圆 41" class="cls-7" cx="1" cy="1" r="1" transform="translate(524.6 311.6)"/>
+    <circle id="椭圆_42" data-name="椭圆 42" class="cls-7" cx="1" cy="1" r="1" transform="translate(519.9 311.1)"/>
+    <circle id="椭圆_43" data-name="椭圆 43" class="cls-7" cx="1" cy="1" r="1" transform="translate(515.4 309.7)"/>
+    <circle id="椭圆_44" data-name="椭圆 44" class="cls-7" cx="1" cy="1" r="1" transform="translate(511.3 307.4)"/>
+    <circle id="椭圆_45" data-name="椭圆 45" class="cls-7" cx="1" cy="1" r="1" transform="translate(507.7 304.4)"/>
+    <circle id="椭圆_46" data-name="椭圆 46" class="cls-7" cx="1" cy="1" r="1" transform="translate(504.8 300.8)"/>
+    <circle id="椭圆_47" data-name="椭圆 47" class="cls-7" cx="1" cy="1" r="1" transform="translate(502.6 296.6)"/>
+    <circle id="椭圆_48" data-name="椭圆 48" class="cls-7" cx="1" cy="1" r="1" transform="translate(501.3 292.1)"/>
+    <circle id="椭圆_49" data-name="椭圆 49" class="cls-7" cx="1" cy="1" r="1" transform="translate(500.9 287.4)"/>
+    <circle id="椭圆_50" data-name="椭圆 50" class="cls-7" cx="1" cy="1" r="1" transform="translate(501.5 282.8)"/>
+    <circle id="椭圆_51" data-name="椭圆 51" class="cls-7" cx="1" cy="1" r="1" transform="translate(502.9 278.3)"/>
+    <circle id="椭圆_52" data-name="椭圆 52" class="cls-7" cx="1" cy="1" r="1" transform="translate(505.1 274.2)"/>
+    <circle id="椭圆_53" data-name="椭圆 53" class="cls-7" cx="1" cy="1" r="1" transform="translate(508.2 270.6)"/>
+    <circle id="椭圆_54" data-name="椭圆 54" class="cls-7" cx="1" cy="1" r="1" transform="translate(511.8 267.7)"/>
+    <circle id="椭圆_55" data-name="椭圆 55" class="cls-7" cx="1" cy="1" r="1" transform="translate(516 265.6)"/>
+    <circle id="椭圆_56" data-name="椭圆 56" class="cls-7" cx="1" cy="1" r="1" transform="translate(520.5 264.3)"/>
+    <circle id="椭圆_57" data-name="椭圆 57" class="cls-7" cx="1" cy="1" r="1" transform="translate(524.8 264.3)"/>
+    <circle id="椭圆_58" data-name="椭圆 58" class="cls-7" cx="1" cy="1" r="1" transform="translate(529.9 264.4)"/>
+    <circle id="椭圆_59" data-name="椭圆 59" class="cls-7" cx="1" cy="1" r="1" transform="translate(430.7 311)"/>
+    <circle id="椭圆_60" data-name="椭圆 60" class="cls-7" cx="1" cy="1" r="1" transform="translate(435.4 311.5)"/>
+    <circle id="椭圆_61" data-name="椭圆 61" class="cls-7" cx="1" cy="1" r="1" transform="translate(440 311)"/>
+    <circle id="椭圆_62" data-name="椭圆 62" class="cls-7" cx="1" cy="1" r="1" transform="translate(444.5 309.7)"/>
+    <circle id="椭圆_63" data-name="椭圆 63" class="cls-7" cx="1" cy="1" r="1" transform="translate(448.7 307.5)"/>
+    <circle id="椭圆_64" data-name="椭圆 64" class="cls-7" cx="1" cy="1" r="1" transform="translate(452.3 304.5)"/>
+    <circle id="椭圆_65" data-name="椭圆 65" class="cls-7" cx="1" cy="1" r="1" transform="translate(455.3 300.9)"/>
+    <circle id="椭圆_66" data-name="椭圆 66" class="cls-7" cx="1" cy="1" r="1" transform="translate(457.5 296.8)"/>
+    <circle id="椭圆_67" data-name="椭圆 67" class="cls-7" cx="1" cy="1" r="1" transform="translate(458.9 292.3)"/>
+    <circle id="椭圆_68" data-name="椭圆 68" class="cls-7" cx="1" cy="1" r="1" transform="translate(459.3 287.6)"/>
+    <circle id="椭圆_69" data-name="椭圆 69" class="cls-7" cx="1" cy="1" r="1" transform="translate(458.9 283)"/>
+    <circle id="椭圆_70" data-name="椭圆 70" class="cls-7" cx="1" cy="1" r="1" transform="translate(457.3 278.5)"/>
+    <circle id="椭圆_71" data-name="椭圆 71" class="cls-7" cx="1" cy="1" r="1" transform="translate(455.3 274.3)"/>
+    <circle id="椭圆_72" data-name="椭圆 72" class="cls-7" cx="1" cy="1" r="1" transform="translate(452.3 270.7)"/>
+    <circle id="椭圆_73" data-name="椭圆 73" class="cls-7" cx="1" cy="1" r="1" transform="translate(448.7 267.8)"/>
+    <circle id="椭圆_74" data-name="椭圆 74" class="cls-7" cx="1" cy="1" r="1" transform="translate(444.5 265.5)"/>
+    <circle id="椭圆_75" data-name="椭圆 75" class="cls-7" cx="1" cy="1" r="1" transform="translate(440 264.2)"/>
+    <circle id="椭圆_76" data-name="椭圆 76" class="cls-7" cx="1" cy="1" r="1" transform="translate(435.4 263.8)"/>
+    <circle id="椭圆_77" data-name="椭圆 77" class="cls-7" cx="1" cy="1" r="1" transform="translate(430.7 264.2)"/>
+    <circle id="椭圆_78" data-name="椭圆 78" class="cls-9" cx="55.8" cy="55.8" r="55.8" transform="translate(425.6 233)"/>
+  </g>
+</svg>
